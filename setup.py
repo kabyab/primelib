@@ -10,7 +10,7 @@ from distutils.core import setup
 setup (
         name = 'primelib',
         version = '1.0.0',
-        packages = ['primelib'],
+        py_modules = ['primelib'],
         author = 'kabyaban',
         author_email = 'bandokabs@gmail.com',
         url = 'https://github.com/kabyab/primelib',
